@@ -1,16 +1,59 @@
-## Hi there 👋
+👋 ¡Hola! Soy Esteban
 
-<!--
-**Waltersena8/Waltersena8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Tecnología en Análisis y Desarrollo de Software
+Apasionado por la programación, el aprendizaje constante y la creación de soluciones digitales.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧑‍💻 Sobre mí
+
+Actualmente me estoy formando como desarrollador de software.
+
+Me interesa el desarrollo web y las tecnologías modernas.
+
+Me gusta aprender haciendo proyectos prácticos.
+
+
+
+---
+
+🚀 Lenguajes y tecnologías que manejo
+
+✔️ Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+Angular
+
+
+✔️ Backend / Otros
+
+Python
+
+
+
+---
+
+🔗 Conecta conmigo
+
+💼 LinkedIn
+👉 Tu perfil de LinkedIn aquí
+
+
+---
+
+📌 Objetivo
+
+Seguir creciendo como desarrollador, adquirir experiencia profesional y aportar soluciones tecnológicas eficientes.
+
+
+---
+
+✨ Perfil en constante aprendizaje y evolución ✨
